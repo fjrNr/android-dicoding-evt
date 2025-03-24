@@ -1,4 +1,4 @@
-# android-dicoding-event
+# Dicoding Event
 This repository is submitted to passed [Android fundamental apps development class](https://www.dicoding.com/academies/14) from Dicoding Academy. The native app tells user about Dicoding events.
 
 ## Installation
