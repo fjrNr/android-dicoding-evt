@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Dicoding Event</string>
+
+    <string name="title_bottom_nav_home">Home</string>
+    <string name="title_bottom_nav_upcoming">Upcoming</string>
+    <string name="title_bottom_nav_finished">Finished</string>
+    <string name="title_bottom_nav_favorite">Favorite</string>
+    <string name="title_bottom_nav_setting">Setting</string>
+
+    <string name="title_bar_home">Home</string>
+    <string name="title_bar_upcoming_event">Upcoming Events</string>
+    <string name="title_bar_finished_event">Finished Events</string>
+    <string name="title_bar_favorite_event">Favorite Events</string>
+    <string name="title_bar_setting">Setting</string>
+
+    <string name="title_text_event_name">Event Name</string>
+    <string name="title_text_owner_name">Owner</string>
+    <string name="title_text_event_time">Time</string>
+    <string name="title_text_quota_remaining">Quota remaining</string>
+    <string name="title_text_description">Description</string>
+
+    <string name="register">Register</string>
+    <string name="button_retry">Retry</string>
+    <string name="search_bar_hint">Search event</string>
+    <string name="quota_remaining">%1$s of %2$s slots</string>
+
+    <string name="dark_mode">Dark mode</string>
+    <string name="daily_notification">Daily notification</string>
+</resources>
